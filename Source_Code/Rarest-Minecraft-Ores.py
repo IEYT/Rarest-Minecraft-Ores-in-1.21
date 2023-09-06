@@ -4,7 +4,7 @@
 from tkinter import *
 Root = Tk()
 Root.title('Rarest Mincraft ores')
-
+Root.iconbitmap('Logo.ico')
 
 #First =   ('The best one is the Emerald ore then,')
 #Second =  ('Ancient Debris then,')
