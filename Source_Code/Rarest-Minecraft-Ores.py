@@ -95,8 +95,6 @@ def button9():
     lable9.grid(row=0, column=9)
 ###################################################
 
-
-
 # Tenth Button #
 def button10():
     label10 = Label(Root, text="Copper ore, and that's it!")
