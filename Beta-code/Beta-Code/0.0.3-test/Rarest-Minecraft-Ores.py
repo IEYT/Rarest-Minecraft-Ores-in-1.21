@@ -46,7 +46,7 @@ Button3.grid(row=2, column=3)
 
 # Fourth Button #
 def button4():
-    label4 = Label(Root, text="Lapis Lazuli ore then,", bg="green")
+    label4 = Label(Root, text="Lapis Lazuli ore then,", bg="#aff8bf") # #aff8bf = Random generated light green
     label4.grid(row=3, column=3)
 #######################################################
 Button4  = Button(Root, text='4th', command=button4)
@@ -64,7 +64,7 @@ Button5.grid(row=4, column=5)
 
 # Sixth Button #
 def button6():
-    label6 = Label(Root, text='Nether Gold ore then,')
+    label6 = Label(Root, text="Nether Gold ore then,", bg="#4B0082") # #4B0082 = Indigo.
     label6.grid(row=5, column=5)
 ######################################################
 Button6  = Button(Root, text='6th', command=button6)
@@ -73,7 +73,7 @@ Button6.grid(row=5, column=6)
 
 # Seventh Button #
 def button7():
-    label7 = Label(Root, text='Gold ore then,')
+    label7 = Label(Root, text="Gold ore then,", bg="purple")
     label7.grid(row=6, column=6)
 ###############################################
 Button7  = Button(Root, text='7th', command=button7)
@@ -82,7 +82,7 @@ Button7.grid(row=6, column=7)
 
 # Eighth Button #
 def button8():
-    label8 = Label(Root, text='Iron Ore then,')
+    label8 = Label(Root, text="Iron Ore then,", bg="#7F00FF") # #7F00FF = Violet
     label8.grid(row=7, column=7)
 ###############################################
 Button8  = Button(Root, text='8th', command=button8)
@@ -91,7 +91,7 @@ Button8.grid(row=7, column=8)
 
 # Ninth Button #
 def button9():
-    lable9 = Label(Root, text='Nether Quartz then')
+    lable9 = Label(Root, text="Nether Quartz then", bg="#b7d2f9") # #b7d2f9 = Random generated light blue
     lable9.grid(row=8, column=8)
 ###################################################
 Button9 = Button(Root, text='9th', command=button9)
@@ -100,7 +100,7 @@ Button9.grid(row=8, column=9)
 
 # Tenth Button #
 def button10():
-    label10 = Label(Root, text="Copper ore, and that's it!")
+    label10 = Label(Root, text="Copper ore, and that's it!", bg="#green")
     label10.grid(row=9, column=9)
 #######################################################################
 Button10 = Button(Root, text='10th', command=button10)
