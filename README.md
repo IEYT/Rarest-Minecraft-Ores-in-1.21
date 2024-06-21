@@ -1,4 +1,4 @@
-# Rarest Minecraft Ores in 1.20
+# Rarest Minecraft Ores in 1.21
 {0.0.1} When this program opens, it will open a window with 10 buttons in a diagonal line. When you click them, they show the ore. if you want to fork my app, please in your README, put in @IEYT.
 
 {Alpha-0.0.2 test} Same as the last release, except for the change from the TK logo to a Minecraft logo but please check out the Beta-Code folder before installing. As always, please in your README, put in @IEYT.
