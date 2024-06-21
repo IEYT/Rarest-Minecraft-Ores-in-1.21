@@ -1,6 +1,7 @@
-#Top #10 rarest minecraft ores in order(not including deepslate versions of ores).
-    
-    #Source  https://rarest.org/entertainment/rarest-ore-in-minecraft
+        #Top #10 rarest minecraft ores in order(not including deepslate versions of ores).
+                #Tester file 
+         #Source  https://rarest.org/entertainment/rarest-ore-in-minecraft
+
 from tkinter import *
 Root = Tk()
 Root.title('Rarest Mincraft ores')
