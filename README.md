@@ -10,4 +10,4 @@
 <h2> Resourses </h2>
 <h5> Profile page (https://github.com/IEYT)
 <h5> Stack Overflow profile (https://stackoverflow.com/users/22701900/ieyt)
-
+<h5> GitHub Pages (https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/)
