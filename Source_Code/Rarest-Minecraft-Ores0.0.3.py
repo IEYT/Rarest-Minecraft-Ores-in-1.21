@@ -1,5 +1,4 @@
 #Top #10 rarest minecraft ores in order(not including deepslate versions of ores).
-    
     #Source  https://rarest.org/entertainment/rarest-ore-in-minecraft
     #Background  https://wallpaperaccess.com/rainbow-stripes
                 # {Note, i am using a list from Minecraft version 1.20 because I couldn't find one for 1.21, so be aware that some of them might be wrong.}
