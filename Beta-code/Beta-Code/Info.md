@@ -1,1 +1,2 @@
-you can't run this with vs code terminal, i don't know why but to run this code , you must use this code on powershell " cd (the drive your files are on ie.(C:))/(the folder where you store the file), run it then," " python (the drive your files are on ie.(C:))/(the folder where you store the file)/(The Rarest-Minecraft-Ores.py file) ". Then the app will open. Thank you for your time!
+You can't run the Alpha 0.0.2 test with VS Code terminal, I don't know why but to run this code, you must use this code on Powershell 
+cd (the drive your files are on ex. C:/(the folder where you store the file), then on Powershell, use this command, python Rarest-Mincraft-Ores-Alpha_Test. Then the app will open. Thank you for your time!
