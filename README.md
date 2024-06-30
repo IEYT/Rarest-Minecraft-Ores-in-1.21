@@ -11,3 +11,7 @@
 <h5> Profile page (https://github.com/IEYT)
 <h5> Stack Overflow profile (https://stackoverflow.com/users/22701900/ieyt)
 <h5> GitHub Pages (https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/)
+
+<h2> Downloads </h2>
+<h5> Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3)
+<h5> All releases (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases)
