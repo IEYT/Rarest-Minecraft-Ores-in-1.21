@@ -5,13 +5,13 @@
 from tkinter import *
 Root = Tk()
 Root.title('Rarest Mincraft ores')
-Root.iconbitmap("Logo.ico") 
+Root.iconbitmap("Source_Code\Logo.ico") 
 Root.geometry("1600x750")
 
 Grid.columnconfigure(Root,0,weight=1)
 Grid.columnconfigure(Root,1,weight=1) 
 
-bg = PhotoImage(file="wobniar.png")
+bg = PhotoImage(file="Source_Code\wobniar.png")
 MyLabel = Label(Root, image=bg)
 MyLabel.place(x=0, y=0, relwidth=1, relheight=1)
 
