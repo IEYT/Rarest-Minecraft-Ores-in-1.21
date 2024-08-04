@@ -13,5 +13,5 @@
 <h5> GitHub Pages (https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/)
 
 <h2> Downloads </h2>
-<h5> Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/downloads/v0.0.3)
+<h5> Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/download/v0.0.3/Rarest-Minecraft-Ores0.0.3.exe)
 <h5> All releases (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases)
