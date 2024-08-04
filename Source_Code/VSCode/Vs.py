@@ -93,7 +93,7 @@ def button8():
     label8 = Label(Root, text="Copper ore then,", bg="#7F00FF") # #7F00FF = Violet
     label8.grid(row=8, column=2)
 
-Button8  = Button(Root, text='8th', command= button8, bg='#80FF00') # #80FF00 = Highlighter green/ Neon green
+Button8  = Button(Root, text='8th', command= button8, bg='#80FF00') # #80FF00 = Highlighter green / Neon green
 Button8.grid(row=8, column=1, sticky="NSEW")
 
 
