@@ -15,7 +15,7 @@
 <h2> Direct Downloads </h2>
 <h5>Get the Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/download/v0.0.3/Rarest-Minecraft-Ores0.0.3.exe)
 <h5>Source code for Any terminal on windows(CMD, PWSH, etc.) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip](https://github.com/user-attachments/files/16489650/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip)</h5>
-<h5>Source code for VS Code terminal(Even though it is PWSH) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip](https://github.com/user-attachments/files/16489650/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip)</h5>
+<h5>Source code for VS Code terminal(Even though it is PWSH) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip](https://github.com/user-attachments/files/16489680/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip)</h5>
 <h2>Links to the download and source code pages</h2>
 <h5> All releases (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases)
 <h5>Source code for Any terminal on windows(CMD, PWSH, etc.) (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3_Bug-Fix_2)</h5>
