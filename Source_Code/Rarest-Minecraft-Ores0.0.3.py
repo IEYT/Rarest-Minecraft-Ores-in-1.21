@@ -11,7 +11,7 @@ from tkinter import Label
 from tkinter import Button
 
 ####
-#
+
 Root = Tk()
 Root.title('Rarest Mincraft ores')
 Root.iconbitmap("Logo.ico") 
