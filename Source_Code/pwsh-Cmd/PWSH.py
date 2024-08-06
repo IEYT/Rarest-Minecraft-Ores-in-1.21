@@ -2,7 +2,16 @@
     #Source  https://rarest.org/entertainment/rarest-ore-in-minecraft
     #Background  https://wallpaperaccess.com/rainbow-stripes
                 # {Note, i am using a list from Minecraft version 1.20 because I couldn't find one for 1.21, so be aware that some of them might be wrong.}
-from tkinter import *
+
+# from tkinter import *
+from tkinter import Grid
+from tkinter import PhotoImage
+from tkinter import Tk
+from tkinter import Label
+from tkinter import Button
+
+####
+
 Root = Tk()
 Root.title('Rarest Mincraft ores')
 Root.iconbitmap("Logo.ico") 
