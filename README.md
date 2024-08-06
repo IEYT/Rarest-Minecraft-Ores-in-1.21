@@ -7,17 +7,17 @@
 
 {0.0.3} When this program opens, it will open a window with 10 buttons in a zig-zag line. The 0.0.3 update includes every feature from previous updates, and the new feature for this update is added color to the background, buttons, and text. As always, i'll appreciate when you fork my app, in you README, put @IEYT.
 
-## Resourses </h2>
+## Resourses 
 ##### Profile page (https://github.com/IEYT)
 ##### Stack Overflow profile (https://stackoverflow.com/users/22701900/ieyt)
 ##### GitHub Pages (https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/)
 
-<h2> Direct Downloads </h2>
-<h5>Get the Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/download/v0.0.3/Rarest-Minecraft-Ores0.0.3.exe)
-<h5>Source code for Any terminal on windows(CMD, PWSH, etc.) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip](https://github.com/user-attachments/files/16489650/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip)</h5>
-<h5>Source code for VS Code terminal(Even though it is PWSH) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip](https://github.com/user-attachments/files/16489680/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip)</h5>
-<h2>Links to the download and source code pages</h2>
- <h5>Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3) 
-<h5> All releases (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases)
-<h5>Source code for Any terminal on windows(CMD, PWSH, etc.) (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3_Bug-Fix_2)</h5>
-<h5>Source code for VS Code terminal(Even though it is PWSH) (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3_Bug-Fix)</</h5>
+## Direct Downloads 
+##### Get the Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/download/v0.0.3/Rarest-Minecraft-Ores0.0.3.exe)
+##### Source code for Any terminal on windows(CMD, PWSH, etc.) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip](https://github.com/user-attachments/files/16489650/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix_2.zip)
+##### Source code for VS Code terminal(Even though it is PWSH) [Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip](https://github.com/user-attachments/files/16489680/Rarest-Minecraft-Ores-in-1.21-0.0.3_Bug-Fix.zip)
+##### Links to the download and source code pages
+##### Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3) 
+##### All releases (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases)
+##### Source code for Any terminal on windows(CMD, PWSH, etc.) (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3_Bug-Fix_2)
+##### Source code for VS Code terminal(Even though it is PWSH) (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/tag/v0.0.3_Bug-Fix)
