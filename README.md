@@ -7,10 +7,10 @@
 
 {0.0.3} When this program opens, it will open a window with 10 buttons in a zig-zag line. The 0.0.3 update includes every feature from previous updates, and the new feature for this update is added color to the background, buttons, and text. As always, i'll appreciate when you fork my app, in you README, put @IEYT.
 
-<h2> Resourses </h2>
-<h5> Profile page (https://github.com/IEYT)
-<h5> Stack Overflow profile (https://stackoverflow.com/users/22701900/ieyt)
-<h5> GitHub Pages (https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/)
+## Resourses </h2>
+##### Profile page (https://github.com/IEYT)
+##### Stack Overflow profile (https://stackoverflow.com/users/22701900/ieyt)
+##### GitHub Pages (https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/)
 
 <h2> Direct Downloads </h2>
 <h5>Get the Latest release (https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/download/v0.0.3/Rarest-Minecraft-Ores0.0.3.exe)
