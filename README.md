@@ -10,7 +10,7 @@
 ## Resourses 
 ##### Profile page (**_https://github.com/IEYT_**)
 ##### Stack Overflow profile (**_https://stackoverflow.com/users/22701900/ieyt_**)
-##### GitHub Pages (**_https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/_)
+##### GitHub Pages (_https://ieyt.github.io/Rarest-Minecraft-Ores-in-1.21/_)
 
 ## Direct Downloads 
 ##### Get the Latest release (**_https://github.com/IEYT/Rarest-Minecraft-Ores-in-1.21/releases/download/v0.0.3/Rarest-Minecraft-Ores0.0.3.exe_)
