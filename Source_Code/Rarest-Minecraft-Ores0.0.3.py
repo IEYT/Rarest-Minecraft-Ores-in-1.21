@@ -43,7 +43,6 @@ def button1():
 Button1  = Button(Root, text='1st', command= button1, bg="blue")
 Button1.grid(row=0, column=0, sticky="NSEW")
 
-
 # Second Button #
 def button2():
     label2 = Label(Root, text="Ancient Debris then,", bg="orange")
