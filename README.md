@@ -7,8 +7,6 @@
 
 {0.0.3} When this program opens, it will open a window with 10 buttons in a zig-zag line. The 0.0.3 update includes every feature from previous updates, and the new feature for this update is added color to the background, buttons, and text. As always, i'll appreciate when you fork my app, in you README, put @IEYT.
 
-This is a tool for removing www. and https://www. in dictionary's. It was created partially by the tabnine ai and Me. Note that it creates a new dictionary and the original one is unchanged.
-
 ## Resourses 
 ##### Profile page (**_https://github.com/IEYT_**)
 ##### Stack Overflow profile (**_https://stackoverflow.com/users/22701900/ieyt_**)
